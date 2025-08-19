@@ -21,7 +21,7 @@ pip install requests beautifulsoup4
 1. Clone or download the script yp_scraper.py
 2. Install the required packages:
 ```
-pip install requests beautifulsoup4
+D
 ```
 ## Usage
 ### Basic Usage
@@ -106,3 +106,7 @@ Performance Considerations
 - The scraper includes delays between requests to be respectful to the server
 - Default delay: 1 second between category pages, 2 seconds between categories during listing extraction
 - Estimated time: ~1-2 minutes per category depending on the number of listings
+
+📄 License
+This project is for educational purposes. Please respect YP.com.hk's terms of service and use responsibly.
+
